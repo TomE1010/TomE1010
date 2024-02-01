@@ -1,22 +1,18 @@
 # 👋 Hello! I'm TOM
 
-*Crafting the future of embedded systems, one circuit at a time. *
+*Crafting the future of embedded systems, one circuit at a time.*
 
 ![Profile Banner](link-to-your-banner-image)
 
 **Contact:** [Your Email](mailto:your@email.com) | PGP: [Your PGP Key](link-to-pgp-key) | Matrix: [Your Matrix ID](link-to-matrix-profile)
 
-<details>
+<details open>
 <summary>↕️ <b>Expand for more!</b></summary>
-As a seasoned embedded systems engineer with over [X years] of experience, I've honed my expertise in bridging the gap between hardware and software in the Internet of Things (IoT) space. As the Technology Orchestration Manager (TOM), I've led multiple projects from concept to deployment, specializing in distributed systems and edge computing. My passion lies in crafting intuitive interfaces that simplify complex technologies for end-users. 
+As a seasoned embedded systems engineer with extensive experience, my expertise lies in bridging the gap between intricate hardware and sophisticated software within the IoT domain. My role as the Technology Orchestration Manager (TOM) has enabled me to lead numerous projects from ideation to execution, with a special focus on distributed systems and edge computing. My passion for creating intuitive interfaces simplifies complex technologies, making them accessible for end-users.
 
-I'm always eager to discuss the latest trends in IoT, so feel free to reach out if you're interested in cutting-edge innovation.
 <details>
 <summary><b>About Me</b></summary>
-
-As an embedded systems enthusiast and software developer, I specialize in bringing complex hardware to life. I thrive in the tangled web of embedded design, and being Technology Orchestration Manager (TOM), I am the architect behind a symphony of devices and systems, each playing its part in the grand ballet of innovation and connectivity.
-With a focus on distributed systems, edge computing, and intuitive interfaces, I am driven by the challenge of solving real-world problems with innovative tech. Let's explore the future of IoT together.
-
+As an embedded systems aficionado and seasoned software developer, I breathe life into intricate hardware systems. I excel in navigating the complexities of embedded design and, as a Technology Orchestration Manager (TOM), I conduct a symphony of devices and systems in the grand ballet of innovation and connectivity. My drive stems from the thrill of solving tangible problems using cutting-edge technology, with a sharp focus on distributed systems, edge computing, and user-centric interfaces.
 </details>
 
 <details>
@@ -59,29 +55,29 @@ With a focus on distributed systems, edge computing, and intuitive interfaces, I
 <summary><b>Pinned Repositories</b></summary>
 
 ### [Distributed Pi System](link-to-repo)
-An advanced distributed system connecting multiple Raspberry Pis with Pimoroni interfaces for edge IoT applications.
+A sophisticated distributed system connecting Raspberry Pis with Pimoroni interfaces for edge IoT applications.
 
 ### [Embedded Security Suite](link-to-repo)
-A toolkit focusing on security practices for embedded systems and IoT devices.
+A comprehensive toolkit focusing on security practices for embedded systems and IoT devices.
 
 ### [Pi Edge Computing Framework](link-to-repo)
-Framework designed to leverage the power of Raspberry Pi in edge computing environments.
+A robust framework designed to harness the power of Raspberry Pi for edge computing.
 
 </details>
 
 <details>
 <summary><b>Achievements</b></summary>
 
-- Key speaker at [Embedded Systems Conference 2023](link-to-conference)
-- Lead contributor to [Open Source IoT Project](link-to-project)
-- Published research on [Distributed Computing with Raspberry Pi](link-to-research)
+- Keynote Speaker at [Embedded Systems Conference 2023](link-to-conference)
+- Lead Contributor to [Open Source IoT Project](link-to-project)
+- Author of [Distributed Computing with Raspberry Pi](link-to-research)
 
 </details>
 
 <details>
-<summary><b>Let's Build Something Together</b></summary>
+<summary><b>Collaborate with Me</b></summary>
 
-I'm always on the lookout for challenging projects and innovative collaborations in the realm of embedded systems and edge computing.
+I'm actively seeking new challenges and innovative collaborations in embedded systems and edge computing. If you're working on something where my expertise can help you accelerate, don't hesitate to reach out.
 
 </details>
 
