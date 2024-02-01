@@ -1,6 +1,6 @@
 # 👋 Hello! I'm TOM
 
-*Transforming caffeine into innovative embedded solutions ☕️*
+*Crafting the future of embedded systems, one circuit at a time. *
 
 ![Profile Banner](link-to-your-banner-image)
 
@@ -12,7 +12,8 @@
 <details>
 <summary><b>About Me</b></summary>
 
-As an embedded systems enthusiast and software developer, I specialize in bringing complex hardware to life. With a focus on distributed systems, edge computing, and intuitive interfaces, I am driven by the challenge of solving real-world problems with innovative tech. Let's explore the future of IoT together.
+As an embedded systems enthusiast and software developer, I specialize in bringing complex hardware to life. I thrive in the tangled web of embedded design, and being Technology Orchestration Manager (TOM), I am the architect behind a symphony of devices and systems, each playing its part in the grand ballet of innovation and connectivity.
+With a focus on distributed systems, edge computing, and intuitive interfaces, I am driven by the challenge of solving real-world problems with innovative tech. Let's explore the future of IoT together.
 
 </details>
 
