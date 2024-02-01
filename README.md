@@ -7,12 +7,10 @@
 **Contact:** [Your Email](mailto:your@email.com) | PGP: [Your PGP Key](link-to-pgp-key) | Matrix: [Your Matrix ID](link-to-matrix-profile)
 
 <details>
-<summary>↕️ <b>Expand for more!</b>
+<summary>↕️ <b>Expand for more!</b></summary>
 As a seasoned embedded systems engineer with over [X years] of experience, I've honed my expertise in bridging the gap between hardware and software in the Internet of Things (IoT) space. As the Technology Orchestration Manager (TOM), I've led multiple projects from concept to deployment, specializing in distributed systems and edge computing. My passion lies in crafting intuitive interfaces that simplify complex technologies for end-users. 
 
 I'm always eager to discuss the latest trends in IoT, so feel free to reach out if you're interested in cutting-edge innovation.
-</summary>
-
 <details>
 <summary><b>About Me</b></summary>
 
