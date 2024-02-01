@@ -8,12 +8,13 @@
 
 <details open>
 <summary>↕️ <b>Expand for more!</b></summary>
-As a seasoned embedded systems engineer with extensive experience, my expertise lies in bridging the gap between intricate hardware and sophisticated software within the IoT domain. My role as the Technology Orchestration Manager (TOM) has enabled me to lead numerous projects from ideation to execution, with a special focus on distributed systems and edge computing. My passion for creating intuitive interfaces simplifies complex technologies, making them accessible for end-users.
+With an illustrious career as an embedded systems engineer, my expertise stretches across diverse platforms within the embedded domain. My proficiency encompasses not just microcontrollers and microprocessors but also the seamless integration of these components through communication protocols like Bluetooth and Wi-Fi. As a Technology Orchestration Manager (TOM), I've orchestrated the development of intricate IoT ecosystems, delivering end-to-end solutions that marry hardware prowess with advanced software applications. My portfolio includes a series of successful projects that stand as testaments to my ability to lead teams through the entire lifecycle of product development, with particular acumen in distributed systems and edge computing. The intuitive interfaces I’ve engineered have democratized technology, making sophisticated systems accessible to a broader audience.
 
 <details>
 <summary><b>About Me</b></summary>
-As an embedded systems aficionado and seasoned software developer, I breathe life into intricate hardware systems. I excel in navigating the complexities of embedded design and, as a Technology Orchestration Manager (TOM), I conduct a symphony of devices and systems in the grand ballet of innovation and connectivity. My drive stems from the thrill of solving tangible problems using cutting-edge technology, with a sharp focus on distributed systems, edge computing, and user-centric interfaces.
+In my multifaceted role, I've honed a comprehensive approach to embedded systems, from component selection to full-scale development. My journey through the terrain of software development has been marked by a relentless pursuit of excellence, crafting rigorous programming standards that withstand the demands of complex hardware systems. As the orchestrator of technology, I've directed a harmonious integration of devices and systems, choreographing the innovation dance across the IoT landscape. My resolve is fueled by the exhilaration of transforming technology challenges into real-world applications. My focus is laser-sharp, dedicated to enhancing distributed systems, optimizing edge computing, and refining user experiences through interfaces that resonate with the end-user's needs.
 </details>
+
 
 <details>
 <summary><b>Latest Blog Posts</b></summary>
